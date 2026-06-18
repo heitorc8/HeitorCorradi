@@ -1,6 +1,7 @@
 # heitorc8_
 Meu Perfil GItHub
-<img src = "gif.png" width = "325px" align = "right"> 
+ <img width="320" height="180" alt="gif" src="https://github.com/user-attachments/assets/f5464f30-0231-4575-83c0-c58693005f45" />
+
 
 # Bem vindo ao meu GitHub!🖥️
  <div id="badges">
@@ -9,7 +10,10 @@ Meu Perfil GItHub
   </a>
 </div>
 
+---
+
 Estudante de TI
+
 Futuro Profissional na Area de Frontend 
 Quero me especializar na area de IA tambem
 Passei um ano e meio nos EUA, realizei meu ultimo ano de High School com o Titulo de Excelencia nas Notas Academicas. Após terminar minha High School, me transferi para a faculdade da Carolina do sul USC-Union, onde fiquei apenas 3 meses cursando Engenharia de Software
