@@ -1,5 +1,8 @@
 # heitorc8_
 Meu Perfil GItHub
+
+---
+
  <img width="320" height="180" alt="gif" src="https://github.com/user-attachments/assets/f5464f30-0231-4575-83c0-c58693005f45" />
 
 
