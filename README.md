@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4eDhoMm96ZjRrMTFwZXhleGRybXN4NmN3eDMwdHJvdHkwYjl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/abhMNHCMnbhV7Ad0Ij/giphy.gif" width="200px">
+</p>
 ---
 
 Estudante de TI
